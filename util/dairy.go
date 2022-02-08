@@ -1,5 +1,5 @@
 package util
 
-func historyOf2022() string {
-	return "2022春节后我们会怎么样"
+func HistoryOf2022() string {
+	return "2022要开始上班了"
 }
